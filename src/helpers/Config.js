@@ -1,0 +1,1 @@
+export const BaseURL = 'https://dull-red-bighorn-sheep-tie.cyclic.app/api/v1'
